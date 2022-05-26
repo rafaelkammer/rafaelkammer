@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Rafael Kammer, bem vindo ao meu Github!</h1>
 <h3 align="center">Desenvolvedor Fullstack</h3>
 
-- 🌱 Estou atualmente estudando **Express, TypeORM, Docker e NodeJS**
+- 🌱 Estou atualmente estudando **NodeJS, Express, TypeORM e Docker**
 
 - 📫 Como entrar em contato comigo **kammerdecamposrafael@gmail.com**
 
